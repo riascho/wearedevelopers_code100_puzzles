@@ -3,6 +3,7 @@
 .AppleDouble
 .LSOverride
 .vscode
+**/someLearnings.ts
 
 # Icon must end with two \r
 Icon
